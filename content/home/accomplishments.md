@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "**Awards & Accomplish&shy;ments**"
 subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
 
 # Date format
@@ -19,43 +19,64 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "Department of Applied Economics, Oregon State University"
+  organization_url = ""
+  title = "#### 2024 DeLoach Scholarship"
+  url = "https://gradschool.oregonstate.edu/awards/provosts-distinguished-graduate"
+  certificate_url = ""
+  date_start = "2024-06-11"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
+ 
+ [[item]]
+  organization = "Department of Applied Economics, Oregon State University"
+  organization_url = ""
+  title = "#### 2023 Bonte-Friedheim Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-05-01"
+  date_end = ""
+  description = ""
+  
+  
+[[item]]
+  organization = "Oregon State University"
+  organization_url = ""
+  title = "#### 2021-2022 Provost Distinguish Grad Scholarship"
+  url = "https://gradschool.oregonstate.edu/awards/provosts-distinguished-graduate"
+  certificate_url = ""
+  date_start = "2021-09-01"
+  date_end = ""
+  description = "The purpose of the Provost’s Distinguished Scholarship program is to support programs in the recruitment of OSU’s most meritorious graduate students."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Sigma Xi (SDSU Chapter)"
+  organization_url = ""
+  title = "#### 2021 Graduate Research Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-06-08"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "2nd place, Masters proposal category. The scientific research society, Sigma Xi, is an honorary organization to encourage original investigations in pure and applied sciences."
   
 [[item]]
-  organization = "DataCamp"
+  organization = "University of North Dakota"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "#### Datathon Competition(3rd Place Winner)"
+  url = "http://blogs.und.edu/und-today/2021/04/dathaton-exposes-students-to-real-world-data-science/"
+  certificate_url = ""
+  date_start = "2021-04-08"
+  date_end = ""
+  description = "Applied big-data analytical techniques to tease out public-health insights from from the National Health and Nutrition Examination Survey. Organized by the UND Biology Club, UND’s Dakota Cancer Collaborative on Translational Activity, DaCCoTA, and Sanford"
   
 [[item]]
-  organization = "RDX"
-  organization_url = "https://www.rdx.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "South Dakota State University"
+  organization_url = "https://www.sdstate.edu/graduate-school/graduate-student-professional-development-program"
+  title = "#### Graduate Professional Development Certificate"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
+  certificate_url = "https://drive.google.com/file/d/1R5OMNAwxle9rx4XphffL_Q_v19TkvBUw/view?usp=sharing"
+  date_start = "2020-07-01"
   date_end = "2017-12-21"
-  description = ""
+  description = "A professional development opportunity centered around seven core competencies: Communication, Teaching, Wellness, Research, Career Development, Leadership, and Diversity and Advocacy."
 
 +++
