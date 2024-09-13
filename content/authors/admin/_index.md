@@ -6,50 +6,52 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 btn:
 - label: Download Resume
-  url: https://sourcethemes.com/academic/docs/install/
+  url: https://drive.google.com/file/d/1FVzz7coOpr3UDztth2k7RshcJuAOlN-1/view?usp=sharing
 display_education: false
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD. in Applied Economics
+    institution: Oregon State University
+    year: 2026
+  - course: MSc. in Data Science
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+    year: 2021
+  - course: Msc. Economics
+    institution: South Dakota State University
+    year: 2021
+email: "richard.acquahsarpong@oregonstate.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Regional Development
+- Spatial Economics
+- Program Evaluation
+- Machine Learning
 name: Richard Acquah-Sarpong
 organizations:
 - name: Oregon State University
   url: ""
-role: PhD. Candidate
+role: PhD. Candidate in Applied Economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: mailto:richard.acquahsarpong@oregonstate.edu
+- icon: linkedin
+  icon_pack: fab
+  link: "https://www.linkedin.com/in/richard-acquah-sarpong-ba3746145"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/AcquahSarpong
+- icon: "google-scholar"
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: "https://scholar.google.com/citations?user=ZN-uwuYAAAAJ&hl=en"
+- icon: orcid
+  icon_pack: ai
+  link: "https://orcid.org/0000-0002-3730-4660"
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a PhD Candidate in Applied Economics, with a specialization in Regional and Environmental Economics. My research focuses on the intersection of regional policies, environmental factors, and how they influence business decisions within spatial and geographic contexts. I am particularly interested in investigating the mechanisms through which place-based policies, such as minimum wage laws, and environmental policies or events shape the spatial distribution of economic activities
 
-![reviews](../../img/certifacates.jpg)
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+In my research, I delve into how economic policies and environmental conditions affect firm behavior, investment decisions, and regional economic resilience. My current work explores the impact of Oregon’s three-tier minimum wage system on the rural-urban development divide, with a focus on firm survival and economic stability. This research aims to provide insights into how differentiated wage policies in distinct geographic regions can either mitigate or exacerbate economic disparities.
