@@ -24,11 +24,11 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Michael Vahn
+name: Richard Acquah-Sarpong
 organizations:
-- name: Stanford University
+- name: Oregon State University
   url: ""
-role: Professor of Artificial Intelligence
+role: PhD. Candidate
 social:
 - icon: envelope
   icon_pack: fas
