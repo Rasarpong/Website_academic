@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academia"
+title = "Richard Acquah-Sarpong"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "user-2.jpg"
@@ -42,6 +42,4 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
-
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+## My name is **Richard Acquah-Sarpong** and I'm a PhD Candidate in Applied Economics with a Masters in Economics and Data Science
