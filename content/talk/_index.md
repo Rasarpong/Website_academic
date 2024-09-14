@@ -1,6 +1,6 @@
 ---
 header:
-  caption: "fgbadsaeab d"
+  caption: ""
   image: ""
 title: Recent & Upcoming Talks
 view: 2
