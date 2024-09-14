@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-avatar_image: user-full.png
+avatar_image: rasA.jpg
 bio: My research include regional and environmental economics
 btn:
 - label: Download CV
