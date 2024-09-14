@@ -12,9 +12,9 @@ math: true
 projects: null
 publishDate: null
 slides: null
-summary: Paper presentation at the  2024 AEC working group series.
+summary: Paper presentation at the  2024 fall department of Applied Economics working group series.
 tags: []
-title: AEC working group series,
+title: Applied Economics Working Group Series,
 url_code: ""
 url_pdf: ""
 url_slides: ""
