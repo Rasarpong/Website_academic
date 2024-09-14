@@ -9,7 +9,7 @@ featured: true
 image:
   caption: 
   focal_point: ""
-  preview_only: true
+  preview_only: false
 links: null
 projects: null
 publication: Journal of Extension
