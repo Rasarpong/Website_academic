@@ -1,8 +1,8 @@
 ---
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2024-11-20T13:00:00Z"
+date_end: "2024-11-20T15:00:00Z"
 event: 
 event_url: 
 featured: false
@@ -13,11 +13,11 @@ links: null
 location: Corvallis, OR, USA
 math: true
 projects: null
-publishDate: "2024-011-20T00:00:00Z"
+publishDate: "2024-08-10T00:00:00Z"
 slides: null
-summary: Paper presentation at the 2024 fall Department of Applied Economics Working Group Series.
+summary: An example talk using academia's Markdown slides feature.
 tags: []
-title: Applied Economics Working Group Series
+title: Synthesizing Qualitative Data
 url_code: ""
 url_pdf: ""
 url_slides: ""
