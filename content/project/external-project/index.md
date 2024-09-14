@@ -1,11 +1,11 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+date: "2021-12-29T00:00:00Z"
+external_link: https://rpubs.com/Richie222/859548
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
-summary: An example of linking directly to an external project website using "external_link".
+summary: visualizing information in an appealing and easily understandable way (1).
 tags:
-- Demo
-title: External Project
+- Data Visualization
+title: Jittered Dot Plot
 ---
