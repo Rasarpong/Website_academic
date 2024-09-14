@@ -13,7 +13,7 @@ links: null
 location: Corvallis, OR, USA
 math: true
 projects: null
-publishDate: "2024-08-10T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 slides: null
 summary: An example talk using academia's Markdown slides feature.
 tags: []
