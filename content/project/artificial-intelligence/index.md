@@ -1,12 +1,11 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: null
+date: "2021-12-29T00:00:00Z"
+external_link: https://rpubs.com/Richie222/863185
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
+summary: Building Multivariate adaptive regression splines (MARS) and Logistic Predictive Models from real accounts data to predict delinquency of credit card customers.
 tags:
-- Demo
-- robotics
-title: Artificial Intelligence
+- Predictive Analytics
+title: Customer Delinquency Prediction
 ---
