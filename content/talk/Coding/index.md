@@ -1,27 +1,23 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: academia Theme Conference
-event_url: https://example.org
+date: "2023-11-15T13:00:00Z"
+date_end: "2023-06-18T15:00:00Z"
+event: 
+event_url: https://www.narsc.org/newsite/conference/past-and-future-conferences/
 featured: false
 image:
   caption: 
   focal_point: Right
 links: null
-location: London, United Kingdom
+location: San Diego, CA, USA
 math: true
 projects: null
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-11-20T00:00:00Z"
 slides: null
-summary: An example talk using academia's Markdown slides feature.
+summary: paper presentation at the 70th North American Meetings of the Regional Science Asssociation International.
 tags: []
-title: Coding and Analyzing Qualitative Data
+title: North Merican Regional Science Council (NARSC) Meeting
 url_code: ""
 url_pdf: ""
 url_slides: ""
