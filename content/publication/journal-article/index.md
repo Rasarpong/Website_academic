@@ -1,14 +1,8 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Prior economic evaluations of the Expanded Food and Nutrition Education Program (EFNEP) perform cost-benefit analyses (CBA) reliant on self-reported behavioral data and unvalidated criteria for disease prevention. This study aims to conduct a CBA of Colorado and Washington EFNEP using an objective biomarker, Body Mass Index, to monetize program benefits. A longitudinal study of a convenience sample of EFNEP participants was conducted utilizing a single-group pretest-posttest design. Results indicate Colorado and Washington EFNEP generates \$9.23 of benefits per $1.00 of costs and demonstrate the feasibility and value of using biomarkers in economic evaluations of nutrition education interventions delivered through Extension.
 authors:
 - admin
-- Robert Ford
+- 
 date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
