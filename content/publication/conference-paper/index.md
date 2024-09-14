@@ -13,7 +13,7 @@ image:
 links: null
 projects: null
 publication: In *Journal of Extension*
-publication_short: 
+publication_short: *JOE*
 publication_types:
 - "1"
 publishDate: "2024-05-01T00:00:00Z"
