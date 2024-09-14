@@ -15,9 +15,9 @@ math: true
 projects: null
 publishDate: "2017-01-01T00:00:00Z"
 slides: null
-summary: An example talk using academia's Markdown slides feature.
+summary: Paper presentation at the 2024 fall Department of Applied Economics Working Group Series.
 tags: []
-title: Synthesizing Qualitative Data
+title: Applied Economics Working Group Series
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -27,3 +27,4 @@ url_video: ""
 {{% alert note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /alert %}}
+
