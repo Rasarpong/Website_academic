@@ -1,7 +1,8 @@
 ---
 all_day: false
 authors: []
-date: "2024-11-20T8:30:00:00Z"
+date: "2024-11-20T13:00:00Z"
+date_end: "2024-11-20T17:00:00Z"
 featured: false
 image:
   caption: 
