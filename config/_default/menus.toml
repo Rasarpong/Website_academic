@@ -5,13 +5,19 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#hero"
   weight = 10
+  
+[[main]]
+  name = "Teaching & Research"
+  url = "#experience"
+  weight = 20
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+  name = "Writing"
+  url = "#publications"
+  weight = 40
+
 
 [[main]]
   name = "Projects"
@@ -19,34 +25,36 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 40
-
-[[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "Blog"
+  url = "#posts"
   weight = 50
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
 
+#[main]]
+# name = "Contact"
+# url = "#contact"
+# weight = 60
+#
 [[main]]
-  name = "dropdown"
+  name = "Find Me"
   url = "#"
   hasChildren = true
 
 [[main]]
-  parent = "dropdown"
-  name = "dropdown 1"
-  url = "#"
+  parent = "Find Me"
+  name = "GitHub"
+  url = "https://github.com/Rasarpong"
+
 
 [[main]]
-  parent = "dropdown"
-  name = "dropdown 2"
-  url = "#!"
+  parent = "Find Me"
+  name = "Kaggle"
+  url = "https://www.kaggle.com/richardacquahsarpong"
+
+[[main]]
+  parent = "Find Me"
+  name = "Rpubs"
+  url = "https://rpubs.com/Richie222"
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
