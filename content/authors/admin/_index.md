@@ -2,10 +2,9 @@
 authors:
 - admin
 avatar_image: user-full.png
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research include regional and environmental economics
 btn:
-- label: Download Resume
+- label: Download CV
   url: https://drive.google.com/file/d/1FVzz7coOpr3UDztth2k7RshcJuAOlN-1/view?usp=sharing
 display_education: false
 education:
@@ -22,6 +21,7 @@ education:
 email: "richard.acquahsarpong@oregonstate.edu"
 interests:
 - Regional Development
+- Environmental Economics
 - Spatial Economics
 - Program Evaluation
 - Machine Learning
@@ -52,6 +52,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a PhD Candidate in Applied Economics, with a specialization in Regional and Environmental Economics. My research focuses on the intersection of regional policies, environmental factors, and how they influence business decisions within spatial and geographic contexts. I am particularly interested in investigating the mechanisms through which place-based policies, such as minimum wage laws, and environmental policies or events shape the spatial distribution of economic activities
+I am PhD Candidate in Applied Economics, with a specialization in Regional and Environmental Economics. My research focuses on the intersection of regional policies, environmental factors, and how they influence business decisions within spatial and geographic contexts. I am particularly interested in investigating the mechanisms through which place-based policies, such as minimum wage laws, and environmental policies or events shape the spatial distribution of economic activities
 
 In my current research, I explore how economic policies and environmental conditions affect firm behavior, investment decisions, and regional economic resilience. My current work explores the impact of Oregon’s three-tier minimum wage system on the rural-urban development divide, with a focus on firm survival and economic stability. This research aims to provide insights into how differentiated wage policies in distinct geographic regions can either mitigate or exacerbate economic disparities.
