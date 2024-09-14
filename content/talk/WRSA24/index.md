@@ -12,7 +12,7 @@ links: null
 location: Monterey, CA, USA
 math: true
 projects: null
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-02-18T00:00:00Z"
 slides: null
 summary: Paper presentation at the  63rd Annual Meeting of Western Regional Science Association.
 tags: []
