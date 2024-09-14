@@ -5,7 +5,7 @@ authors:
 - Robert Ford
 date: "2024-05-01T00:00:00Z"
 doi: "10.34068/joe.61.04.17"
-featured: true
+featured: false
 image:
   caption: 
   focal_point: ""
