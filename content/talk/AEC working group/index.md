@@ -1,8 +1,8 @@
 ---
 all_day: false
 authors: []
-date: "2024-11-20T13:00:00Z"
-date_end: "2024-11-20T15:00:00Z"
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
 event: 
 event_url: 
 featured: false
