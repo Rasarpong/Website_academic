@@ -1,12 +1,11 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: null
+date: "2021-12-29T00:00:00Z"
+external_link: https://rpubs.com/Richie222/853114
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
+summary: A supervised machine learning algorithm to perform a multi-classification of dry beans species harvested from population cultivation from a single farm.
 tags:
-- Demo
-- Deep Learning
-title: Deep Learning
+- Machine Learning
+title: Multi-Classification of Dry Beans Using Machine Learning
 ---
