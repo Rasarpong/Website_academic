@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academia</title>
-    <link>http://localhost:4321/academia/site/</link>
-    <description>Recent content on Academia</description>
+    <title>Richard Acquah-Sarpong</title>
+    <link>http://localhost:4321/</link>
+    <description>Recent content on Richard Acquah-Sarpong</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://localhost:4321/academia/site/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:4321/academia/site/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <link>http://localhost:4321/talk/</link>
+      <pubDate>Wed, 20 Nov 2024 13:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/academia/site/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>http://localhost:4321/academia/site/post/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>http://localhost:4321/academia/site/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>http://localhost:4321/academia/site/courses/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:4321/academia/site/courses/</guid>
+      <guid>http://localhost:4321/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://localhost:4321/academia/site/publication/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <link>http://localhost:4321/publication/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/academia/site/publication/</guid>
+      <guid>http://localhost:4321/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:4321/project/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>http://localhost:4321/courses/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:4321/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>http://localhost:4321/academia/site/slides/</link>
+      <link>http://localhost:4321/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/academia/site/slides/</guid>
+      <guid>http://localhost:4321/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:4321/academia/site/privacy/</link>
+      <link>http://localhost:4321/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://localhost:4321/academia/site/privacy/</guid>
+      <guid>http://localhost:4321/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://localhost:4321/academia/site/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Posts</title>
+      <link>http://localhost:4321/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/academia/site/project/</guid>
+      <guid>http://localhost:4321/post/</guid>
       <description></description>
     </item>
     

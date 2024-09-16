@@ -42,4 +42,5 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Richard Acquah-Sarpong** and I'm a PhD Candidate in Applied Economics with a Masters in Economics and Data Science
+## **Richard Acquah-Sarpong** 
+## PhD Candidate in Applied Economics with a Masters in Economics and Data Science.

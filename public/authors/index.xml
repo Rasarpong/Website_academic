@@ -1,36 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academia</title>
-    <link>http://localhost:4321/academia/site/authors/</link>
-    <description>Recent content in Authors on Academia</description>
+    <title>Authors on Richard Acquah-Sarpong</title>
+    <link>http://localhost:4321/authors/</link>
+    <description>Recent content in Authors on Richard Acquah-Sarpong</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://localhost:4321/academia/site/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://localhost:4321/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>http://localhost:4321/academia/site/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Leschewski, A., Aragon, M. C., Weatherspoon, D., Barale, K., Auld, G., **Acquah-Sarpong, R.**, &amp; Baker, S. S</title>
+      <link>http://localhost:4321/authors/leschewski-a.-aragon-m.-c.-weatherspoon-d.-barale-k.-auld-g.-acquah-sarpong-r.--baker-s.-s/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/academia/site/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;reviews&#34; src=&#34;../../img/certifacates.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.&lt;/p&gt;
-</description>
+      <guid>http://localhost:4321/authors/leschewski-a.-aragon-m.-c.-weatherspoon-d.-barale-k.-auld-g.-acquah-sarpong-r.--baker-s.-s/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>http://localhost:4321/academia/site/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>http://localhost:4321/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/academia/site/authors/robert-ford/</guid>
-      <description></description>
+      <guid>http://localhost:4321/authors/admin/</guid>
+      <description>&lt;p&gt;I am PhD Candidate in Applied Economics, with a specialization in Regional and Environmental Economics. My research focuses on the intersection of regional policies, environmental factors, and how they influence business decisions within spatial and geographic contexts. I am particularly interested in investigating the mechanisms through which place-based policies, such as minimum wage laws, and environmental policies or events shape the spatial distribution of economic activities&lt;/p&gt;
+&lt;p&gt;In my current research, I explore how economic policies and environmental conditions affect firm behavior, investment decisions, and regional economic resilience. My current work explores the impact of Oregon’s three-tier minimum wage system on the rural-urban development divide, with a focus on firm survival and economic stability. This research aims to provide insights into how differentiated wage policies in distinct geographic regions can either mitigate or exacerbate economic disparities.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
