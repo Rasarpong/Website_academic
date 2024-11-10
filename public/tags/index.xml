@@ -48,5 +48,68 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Plot</title>
+      <link>http://localhost:4321/tags/plot/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://localhost:4321/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>http://localhost:4321/tags/r-markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://localhost:4321/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>http://localhost:4321/tags/regression/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://localhost:4321/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:4321/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human</title>
+      <link>http://localhost:4321/tags/human/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/tags/human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>http://localhost:4321/tags/robotics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academia</title>
+      <link>http://localhost:4321/tags/academia/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4321/tags/academia/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

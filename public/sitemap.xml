@@ -29,14 +29,20 @@
     <loc>http://localhost:4321/courses/example.1/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/talk/synthesizing/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/talk/aec-working-group/</loc>
     <lastmod>2024-11-20T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/</loc>
-    <lastmod>2024-11-20T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/</loc>
-    <lastmod>2024-11-20T13:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publication_types/1/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/publication_types/2/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
@@ -44,7 +50,13 @@
     <loc>http://localhost:4321/authors/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/publication/conference-paper/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/publication/journal-article/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/authors/leschewski-a.-aragon-m.-c.-weatherspoon-d.-barale-k.-auld-g.-acquah-sarpong-r.--baker-s.-s/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/authors/leschewski-a.-aragon-m.-c.-weatherspoon-d.-barale-k.-auld-g.-acquah-sarpong-r.--baker-s.-s/</loc>
@@ -89,8 +101,41 @@
     <loc>http://localhost:4321/project/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/post/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/post/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/post/jupyter/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -101,10 +146,31 @@
     <loc>http://localhost:4321/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/authors/admin/</loc>
+    <loc>http://localhost:4321/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
+    <loc>http://localhost:4321/tags/human/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/</loc>
+    <loc>http://localhost:4321/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/robotics/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/robotics/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/skin-cancer-ai/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/post/snail/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/academia/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
 </urlset>
