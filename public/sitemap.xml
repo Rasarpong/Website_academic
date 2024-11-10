@@ -29,16 +29,13 @@
     <loc>http://localhost:4321/courses/example.1/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/talk/aec-working-group/</loc>
+    <lastmod>2024-11-20T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2024-11-20T13:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/talk/synthesizing/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/talk/aec-working-group/</loc>
     <lastmod>2024-11-20T13:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/publication_types/1/</loc>

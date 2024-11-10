@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leschewski, A., Aragon, M. C., Weatherspoon, D., Barale, K., Auld, G., Acquah-Sarpong, R., &amp; Baker, S. S on Richard Acquah-Sarpong</title>
+    <title>Leschewski, A., Aragon, M. C., Weatherspoon, D., Barale, K., Auld, G., **Acquah-Sarpong, R.**, &amp; Baker, S. S on Richard Acquah-Sarpong</title>
     <link>http://localhost:4321/authors/leschewski-a.-aragon-m.-c.-weatherspoon-d.-barale-k.-auld-g.-acquah-sarpong-r.--baker-s.-s/</link>
-    <description>Recent content in Leschewski, A., Aragon, M. C., Weatherspoon, D., Barale, K., Auld, G., Acquah-Sarpong, R., &amp; Baker, S. S on Richard Acquah-Sarpong</description>
+    <description>Recent content in Leschewski, A., Aragon, M. C., Weatherspoon, D., Barale, K., Auld, G., **Acquah-Sarpong, R.**, &amp; Baker, S. S on Richard Acquah-Sarpong</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
@@ -14,10 +14,10 @@
     
     <item>
       <title>Expanded Food and Nutrition Education Program Generates Economic Value Through Body Mass Index Improvement. A Cost-Benefit Analysis</title>
-      <link>http://localhost:4321/publication/conference-paper/</link>
+      <link>http://localhost:4321/publication/journal-article/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/publication/conference-paper/</guid>
+      <guid>http://localhost:4321/publication/journal-article/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;a href=&#34;https://tigerprints.clemson.edu/joe/vol61/iss4/17/&#34;&gt;Find full text here&lt;/a&gt;.&lt;/p&gt;
@@ -26,4 +26,3 @@
     
   </channel>
 </rss>
-/rss>
