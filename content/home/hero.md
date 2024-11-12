@@ -44,3 +44,8 @@ hero_media = "_RAS9979.jpg"
 +++
 ## **Richard Acquah-Sarpong** 
 ## PhD Candidate in Applied Economics with a Masters in Economics and Data Science.
+### Research interests:
+- Regional Economics
+- Environmental Economics
+- Program Evaluation
+- Causal Machine Learning
