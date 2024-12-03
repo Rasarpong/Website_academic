@@ -46,6 +46,6 @@ hero_media = "_RAS9979.jpg"
 ## PhD Candidate in Applied Economics with a Masters in Economics and Data Science.
 ### Research interests:
 - Regional Economics
+- Urban Economics
 - Environmental Economics
-- Program Evaluation
 - Causal Machine Learning

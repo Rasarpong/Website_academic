@@ -5,7 +5,7 @@ avatar_image: rasA.jpg
 bio: My research include regional and environmental economics
 btn:
 - label: Download CV
-  url: https://drive.google.com/file/d/1FVzz7coOpr3UDztth2k7RshcJuAOlN-1/view?usp=sharing
+  url: https://drive.google.com/file/d/1_ixFbypnjQ2_KESqk9fotcWBfHu9ZxKY/view?usp=sharing
 display_education: true
 education:
   courses:
