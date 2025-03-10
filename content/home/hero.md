@@ -17,7 +17,7 @@ hero_media = "_RAS9979.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#fff"
+  color = "white"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
@@ -42,10 +42,15 @@ hero_media = "_RAS9979.jpg"
   label = "Contact me"
 
 +++
-## **Richard Acquah-Sarpong** 
-## PhD Candidate in Applied Economics with a Masters in Economics and Data Science.
+## **About Me** 
+ My name is Kenneth Annan, and I am a PhD candidate in the Applied Economics program at Oregon State University (OSU). Prior to starting my PhD at OSU, I received a double Msc. degree in Economics and Data Science from South Dakota State University (SDSU). I am originally from Ghana, where I received a Bsc. in Mathematics with Economics at the University of Cape Coast (UCC).
+
+
+My primary research focuses on agricultural economics, as well as  environmental and resource economics. I study  topics related to irrigation and water rights, wildfires, land use and land values, import demand, cropping pattern changes, and commodity price analysis.
+
+I also conduct research in development economics and international trade and employ a range of applied econometric techniques to conduct in-depth analyses. My research aims to provide valuable insights that inform policymakers on critical agricultural, resource, and environmental policies. 
 ### Research interests:
 - Regional Economics
-- Urban Economics
+- Rural Development
 - Environmental Economics
 - Causal Machine Learning

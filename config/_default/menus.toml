@@ -12,10 +12,10 @@
 
 
 
-#[[main]]
-#  name = "Teaching & Research"
-#  url = "#experience"
-#  weight = 20
+[[main]]
+  name = "Teaching"
+  url = "#experience"
+  weight = 20
 
 [[main]]
   name = "Publications"
@@ -23,6 +23,7 @@
   weight = 30
 
 
+  
 #[[main]]
 #  name = "Projects"
 #  url = "#projects"
@@ -64,7 +65,7 @@
     weight = 20
     
 
- [[main]]
-    name = "Photography"
-    url = "https://www.instagram.com/rasfotografy?igsh=MXRjcTU0cm9iOG5lNw%3D%3D&utm_source=qr"
-    weight = 60
+# [[main]]
+#    name = "Photography"
+#    url = "https://www.instagram.com/rasfotografy?igsh=MXRjcTU0cm9iOG5lNw%3D%3D&utm_source=qr"
+#    weight = 60

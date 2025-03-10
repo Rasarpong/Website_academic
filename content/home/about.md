@@ -1,4 +1,5 @@
 +++
+
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -9,4 +10,5 @@ weight = 20  # Order that this section will appear in.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 avatar_image= "rasA.jpg"
+
 +++

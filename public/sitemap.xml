@@ -47,6 +47,12 @@
     <loc>http://localhost:4321/publication/journal-article/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/publication/preprint/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/working-papers/preprint/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/authors/leschewski-a.-aragon-m.-c.-weatherspoon-d.-barale-k.-auld-g.-acquah-sarpong-r.--baker-s.-s/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,6 +66,9 @@
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/working-papers/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/talk/wrsa24/</loc>
@@ -115,12 +124,6 @@
   </url><url>
     <loc>http://localhost:4321/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>

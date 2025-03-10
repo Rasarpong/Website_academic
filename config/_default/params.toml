@@ -6,13 +6,13 @@ microsoft_clarity = ""
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "ocean"
+color_theme = "dark"
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+font = "rose"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -53,9 +53,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "acquahsr@oregonstate.edu"
+phone = "6055925293"
+address = "Ballard Extension Hall, Room 224, Oregon State University, 97332, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday 10:00 to 13:00<br>
@@ -138,6 +138,8 @@ sharing = true
   citation_style = "apa"
   
 
+
+  
 # Configuration of project pages.
 [projects]
   # Views for associated content.
